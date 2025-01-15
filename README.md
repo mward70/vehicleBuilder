@@ -15,10 +15,10 @@ This application utilizes TypeScript to keep a log of Motorbikes, Trucks, and Ca
 Open the terminal. Run 'npm i' followed by 'npm start'. Answer prompts as indicated. 
 
 ## Link
-https://watch.screencastify.com/v/s0vfLm4F4pGX41Gc3bWb
-Add a truck and tow.
-https://watch.screencastify.com/v/l2AwEMGyshsiT7wlstYv
-Existing motorbike do a wheelie and print details.
+Add a truck and tow:
+https://drive.google.com/file/d/1uTzFL6HxEkUiFZBmc6nXyVTHS0mQzDp3/view
+Select existing motorbike, do wheelie, and print details:
+https://drive.google.com/file/d/1qMPpQGfrq4Ul-55VdX_IHy42DS_V4lZk/view
 
 ## Contribution  
 Initial commit contains starter code. All other code is original content. 
