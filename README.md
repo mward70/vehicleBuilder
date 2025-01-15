@@ -5,6 +5,7 @@
 - [Description](#description)
 - [Installation Instructions](#installation-instructions)
 - [Link](#Link)
+- [Contribution](#contribution)
 - [License](#license)
 
 ## Description
@@ -14,6 +15,9 @@ This application utilizes TypeScript to keep a log of Motorbikes, Trucks, and Ca
 Open the terminal. Run 'npm i' followed by 'npm start'. Answer prompts as indicated. 
 
 ## Link
+
+## Contribution  
+Initial commit contains starter code. All other code is original content. 
 
 ## License
 This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
